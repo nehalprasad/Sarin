@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "317508766560",
+    "project_id": "test-sarin-d8c88",
+    "storage_bucket": "test-sarin-d8c88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317508766560:android:ed3c52321495c3a7bbec05",
+        "android_client_info": {
+          "package_name": "com.sarin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317508766560-54c37jb2dkfcq96nftma64cjfahh2ve8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sarin",
+            "certificate_hash": "dd02e69fe4109fa6229576afdc320d76cc48d942"
+          }
+        },
+        {
+          "client_id": "317508766560-joo6vlc73h35kk8i5ju37123n3saupp6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sarin",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "317508766560-nkr1c1ri6t92rh4tg6vibkrv9eg4q66t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUFNn1AHCE8I77W6nSvatDSrS4RiWoN6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317508766560-nkr1c1ri6t92rh4tg6vibkrv9eg4q66t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
